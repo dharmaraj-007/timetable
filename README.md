@@ -91,3 +91,7 @@ Execute the program
 ~~~
 # OUPUT
 ![output2](timetable.png)
+
+# RESULT
+
+Thus the timetable executed successfully
